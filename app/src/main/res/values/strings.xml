@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3city</string>
+    <string name="naglowek_main">Witaj w aplikacji Trójmiasto APP!\nWybierz, które miasto chciałbyś zwiedzić!</string>
+    <string name="gdansk">Gdańsk</string>
+    <string name="gdynia">Gdynia</string>
+    <string name="sopot">Sopot</string>
+</resources>
